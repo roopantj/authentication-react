@@ -1,0 +1,12 @@
+.card{
+    width: 80%;
+    max-width: 40rem;
+    border-radius: 12px;
+    border: none;
+    margin: auto;
+    margin-top: 10rem;
+    background-color: rgb(35, 36, 36);
+    padding: 1rem;
+    color: white;
+    text-align: center;
+}
