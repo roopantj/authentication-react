@@ -1,0 +1,25 @@
+.otp{
+    position: relative;
+    top:10rem;
+    padding: 1rem;
+    margin: auto;
+    width: 50%;
+    max-width: 40rem;
+    border-radius: 15px;
+    border: none;
+    height: max-content;
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.otp button {
+    margin: 1rem;
+    border: none;
+    appearance: none;
+    background: rgb(77, 75, 75);
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    width: 250px;
+    outline: none;
+    height: 40px;
+    color: white;
+}
